@@ -1,4 +1,4 @@
-# DataWorkshop: First challange
+# DataWorkshop: First challenge
 Task list:
 * day1 - env configuration
 * day2 - jupyter basics
